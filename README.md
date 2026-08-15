@@ -1,5 +1,4 @@
-### PDF Converter
-DOCX/TXT to PDF Converter
+### DOCX/TXT to PDF Converter
 
 A Streamlit-based document conversion application that converts DOCX and TXT files into downloadable PDF documents. The application supports .docx, .DOCX, .txt, and .TXT file formats through a web-based upload interface.
 It uses Python and python-docx to extract text from Microsoft Word documents and standard Python file handling for TXT files. ReportLab is used to generate properly formatted PDF documents with A4 page layout and configurable margins. Streamlit provides the interactive frontend, including file upload, document preview, conversion, and download functionality. The application includes input validation and exception handling to identify unsupported or invalid document files.
