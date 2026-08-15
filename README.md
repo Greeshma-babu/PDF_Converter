@@ -5,16 +5,37 @@ It uses Python and python-docx to extract text from Microsoft Word documents and
 
 Technologies: Python, Streamlit, python-docx, ReportLab, BytesIO, and virtual environment (venv).
 
-### Instructions to install
+## Installation and Setup
+
+Create a virtual environment:
+
+```powershell
 python -m venv .venv
+```
 
+Activate the virtual environment:
+
+```powershell
 .venv\Scripts\activate
+```
 
+Upgrade pip:
+
+```powershell
 python -m pip install --upgrade pip
+```
 
+Install project dependencies:
+
+```powershell
 pip install -r requirements.txt
+```
 
+Run the Streamlit application:
+
+```powershell
 streamlit run app.py
+```
 
 
 ### Screenshots
@@ -24,6 +45,7 @@ streamlit run app.py
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/37f5107b-15f5-4a58-b39f-bcba4a321351" />
 
 ### Deploy to Streamlit 
+URL: https://pdfconverter-execwyzmtpxgwesjgqp7gt.streamlit.app/
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/35cbfe4c-8372-45c7-b9bd-f5d2d7c81a2e" />
 
