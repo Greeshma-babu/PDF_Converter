@@ -23,4 +23,9 @@ streamlit run app.py
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/37f5107b-15f5-4a58-b39f-bcba4a321351" />
 
+### Deploy to Streamlit 
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/35cbfe4c-8372-45c7-b9bd-f5d2d7c81a2e" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/72280257-b250-459c-af66-e95f76eb7da4" />
+
